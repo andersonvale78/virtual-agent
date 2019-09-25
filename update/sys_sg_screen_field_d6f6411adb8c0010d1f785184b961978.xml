@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>houses_destroyed</data_item_field_name>
+        <hidden>false</hidden>
+        <order>40</order>
+        <screen display_value="Details">86c68dd6db8c0010d1f785184b96190d</screen>
+        <screen_data_item_table>x_208573_earthquak_earthquakes</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-24 15:54:53</sys_created_on>
+        <sys_id>d6f6411adb8c0010d1f785184b961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>houses_destroyed</sys_name>
+        <sys_package display_value="Earthquakes" source="x_208573_earthquak">3d59b5cadb040010d1f785184b9619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">3d59b5cadb040010d1f785184b9619ea</sys_scope>
+        <sys_update_name>sys_sg_screen_field_d6f6411adb8c0010d1f785184b961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-24 15:54:53</sys_updated_on>
+        <type>auto</type>
+    </sys_sg_screen_field>
+</record_update>

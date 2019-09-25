@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete">e655e5dedbcc0010d1f785184b9619d3</button>
+        <description/>
+        <field_name/>
+        <label>Delete</label>
+        <location>trailing_swipe</location>
+        <name>Delete</name>
+        <order>1</order>
+        <parent>9dd1bcd6db4c0010d1f785184b96198d</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-24 18:12:32</sys_created_on>
+        <sys_id>3676ed12db004010d1f785184b961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="Earthquakes" source="x_208573_earthquak">3d59b5cadb040010d1f785184b9619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">3d59b5cadb040010d1f785184b9619ea</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3676ed12db004010d1f785184b961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-24 18:12:32</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

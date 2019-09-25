@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_policy_rule">
+    <sys_sg_ui_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>houses_destroyed</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_sg_ui_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-24 23:55:58</sys_created_on>
+        <sys_id>d7a43e5adbc04010d1f785184b96192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>houses_destroyed</sys_name>
+        <sys_package display_value="Earthquakes" source="x_208573_earthquak">3d59b5cadb040010d1f785184b9619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">3d59b5cadb040010d1f785184b9619ea</sys_scope>
+        <sys_update_name>sys_sg_ui_policy_rule_d7a43e5adbc04010d1f785184b96192b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-24 23:55:58</sys_updated_on>
+        <table>x_208573_earthquak_earthquakes</table>
+        <ui_policy display_value="Hide Houses Destroyed">6953fa1adbc04010d1f785184b9619b8</ui_policy>
+        <visible>false</visible>
+    </sys_sg_ui_policy_rule>
+</record_update>

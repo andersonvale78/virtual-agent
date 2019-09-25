@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Earthquakes This Year</description>
+        <group_by/>
+        <name>Earthquakes This Year</name>
+        <query_condition table="x_208573_earthquak_earthquakes">earthquake_dateONThis year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()<item endquery="false" field="earthquake_date" goto="false" newquery="false" operator="ON" or="false" value="This year@javascript:gs.beginningOfThisYear()@javascript:gs.endOfThisYear()"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-24 15:51:40</sys_created_on>
+        <sys_id>1736c5d6db8c0010d1f785184b961912</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Earthquakes This Year</sys_name>
+        <sys_package display_value="Earthquakes" source="x_208573_earthquak">3d59b5cadb040010d1f785184b9619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">3d59b5cadb040010d1f785184b9619ea</sys_scope>
+        <sys_update_name>sys_sg_data_item_1736c5d6db8c0010d1f785184b961912</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-24 16:04:35</sys_updated_on>
+        <table>x_208573_earthquak_earthquakes</table>
+    </sys_sg_data_item>
+</record_update>

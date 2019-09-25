@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 208573 Earthquak Earthquakes" max_length="40" name="u_imp_tmpl_x_208573_earthquak_earthquakes" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="import_attribute_name=Deaths" label="Deaths" max_length="40" name="u_deaths" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Earthquake Date" label="Earthquake Date" max_length="40" name="u_earthquake_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Houses Destroyed" label="Houses Destroyed" max_length="40" name="u_houses_destroyed" type="integer"/>
+        <element attributes="import_attribute_name=Injuries" label="Injuries" max_length="40" name="u_injuries" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Magnitude" label="Magnitude" max_length="40" name="u_magnitude" type="string"/>
+    </element>
+</database>

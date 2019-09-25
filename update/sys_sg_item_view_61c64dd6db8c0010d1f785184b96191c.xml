@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Earthquakes This Year">1736c5d6db8c0010d1f785184b961912</data_item>
+        <dependency_fields>country,city,earthquake_date,magnitude</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","CellId":"country","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":14}},{"Type":"Text","Margin":{"Top":11},"studio_template_field_id":"E2","CellId":"city","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Size":18,"Weight":"medium"}},{"Type":"ViewGroup","Margin":{"Top":11},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E3","Text":"${earthquake_date}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E3","Text":"","CellId":"earthquake_date","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13}},{"Type":"Text","BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"}},{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","Text":"${magnitude}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Text","studio_template_field_id":"E4","Text":"","CellId":"magnitude","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"}}]}],"studio_card_id":"2ed6c41123412300a8ed7f4fc7bf6568"}</item_view_json>
+        <name>Earthquake This Year detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-24 15:54:00</sys_created_on>
+        <sys_id>61c64dd6db8c0010d1f785184b96191c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Earthquake This Year detail item view</sys_name>
+        <sys_package display_value="Earthquakes" source="x_208573_earthquak">3d59b5cadb040010d1f785184b9619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">3d59b5cadb040010d1f785184b9619ea</sys_scope>
+        <sys_update_name>sys_sg_item_view_61c64dd6db8c0010d1f785184b96191c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-24 15:54:50</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>
